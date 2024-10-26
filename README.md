@@ -3,11 +3,11 @@ Project-TrainingWithStudent
 ---
 ---
 # 序言
-github绑定邮箱和用户名指令：
-git config --global user.name 
-git config --global user.email
-检查是否绑定指令：
-git config --global --list
+## github绑定邮箱和用户名指令：
+- git config --global user.name 
+- git config --global user.email
+## 检查是否绑定指令：
+- git config --global --list
 # 一. 项目环境配置
 
 ## 1. 后端数据库
